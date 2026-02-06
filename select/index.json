@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Spirits",
+  "base_artist": "The Strumbellas",
+  "createdAt": "2026-02-06T01:39:34.256014Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Clear Spirits",
+      "artist": "Les Savy Fav",
+      "has_synced": false,
+      "path": "select/01_Clear_Spirits_Les_Savy_Fav.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spirits of the Sea",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/02_Spirits_of_the_Sea_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spirits In The Night",
+      "artist": "Manfred Mann's Earth Band",
+      "has_synced": false,
+      "path": "select/03_Spirits_In_The_Night_Manfred_Mann's_Earth_Band.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Spirits",
+      "artist": "Sematary feat. Hackle",
+      "has_synced": true,
+      "path": "select/04_Spirits_Sematary_feat._Hackle.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Spirits (feat. Hackle)",
+      "artist": "Sematary",
+      "has_synced": false,
+      "path": "select/05_Spirits_(feat._Hackle)_Sematary.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spirits",
+      "artist": "Junkie XL feat. Saffron",
+      "has_synced": false,
+      "path": "select/06_Spirits_Junkie_XL_feat._Saffron.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Juliet of the Spirits",
+      "artist": "The B-52's",
+      "has_synced": true,
+      "path": "select/07_Juliet_of_the_Spirits_The_B-52's.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Juliet of the Spirits",
+      "artist": "The B‐52s",
+      "has_synced": true,
+      "path": "select/08_Juliet_of_the_Spirits_The_B‐52s.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spirits of Perversion",
+      "artist": "TOBACCO",
+      "has_synced": false,
+      "path": "select/09_Spirits_of_Perversion_TOBACCO.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Spirit's In It",
+      "artist": "Patti LaBelle",
+      "has_synced": false,
+      "path": "select/10_The_Spirit's_In_It_Patti_LaBelle.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let Spirits Ride",
+      "artist": "Black Mountain",
+      "has_synced": true,
+      "path": "select/11_Let_Spirits_Ride_Black_Mountain.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Animal (River Spirits)",
+      "artist": "Lenka",
+      "has_synced": true,
+      "path": "select/12_Animal_(River_Spirits)_Lenka.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Heroes (LiVE SPiRiTS)",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/13_Heroes_(LiVE_SPiRiTS)_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ti Amo (feat. MC Spirits)",
+      "artist": "Danny L Harle",
+      "has_synced": true,
+      "path": "select/14_Ti_Amo_(feat._MC_Spirits)_Danny_L_Harle.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ti Amo (feat. MC Spirits & DJ Danny)",
+      "artist": "Danny L Harle",
+      "has_synced": true,
+      "path": "select/15_Ti_Amo_(feat._MC_Spirits_&_DJ_Danny)_Danny_L_Harle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Spirits",
+      "artist": "The Strumbellas",
+      "has_synced": false,
+      "path": "select/pl_01_Spirits_The_Strumbellas.txt"
+    }
+  ]
+}
